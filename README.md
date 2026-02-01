@@ -1,7 +1,5 @@
 # GitHub-courses
 ## My journey at geek linkind.
-1. learn about what's github.
-2. git devoloper.
 ### 1week 
 1. learn about what's github.
 2. git devoloper.
