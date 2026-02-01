@@ -7,6 +7,6 @@
 1. git desktop.
 2. installed git desktop.
 3. how to create.
-**3week**
+   **3week**
 1. issue.
-***issue***
+***solving issues***
